@@ -1,4 +1,4 @@
-proxy-groups:
+﻿proxy-groups:
   - name: 🇭🇰 香港节点 Smart
     icon: https://cdn.jsdelivr.net/gh/Orz-3/mini@master/Color/HK.png
     type: smart
@@ -15,7 +15,6 @@ proxy-groups:
     use:
       - TAG
       - Mesl
-      - Nexitally
   - name: 🇹🇼 台湾节点 Smart
     icon: https://cdn.jsdelivr.net/gh/Orz-3/mini@master/Color/TW.png
     type: smart
@@ -48,7 +47,6 @@ proxy-groups:
     use:
       - TAG
       - Mesl
-      - Nexitally
   - name: 🇯🇵 日本节点 Smart
     icon: https://cdn.jsdelivr.net/gh/Orz-3/mini@master/Color/JP.png
     type: smart
@@ -97,7 +95,6 @@ proxy-groups:
     use:
       - TAG
       - Mesl
-      - Nexitally
       - ROC
   - name: 🇬🇧 英国节点 Smart
     icon: https://cdn.jsdelivr.net/gh/Orz-3/mini@master/Color/UK.png
@@ -115,7 +112,6 @@ proxy-groups:
     use:
       - TAG
       - Mesl
-      - Nexitally
       - Facmata
       - ROC
   - name: 🇩🇪 德国节点 Smart
@@ -134,7 +130,6 @@ proxy-groups:
     use:
       - TAG
       - Mesl
-      - Nexitally
       - Facmata
       - ROC
   - name: 🇫🇷 法国节点 Smart
@@ -153,7 +148,6 @@ proxy-groups:
     use:
       - TAG
       - Mesl
-      - Nexitally
       - Facmata
       - ROC
   - name: 🇦🇺 澳大利亚节点 Smart
@@ -172,7 +166,6 @@ proxy-groups:
     use:
       - TAG
       - Mesl
-      - Nexitally
       - Facmata
       - ROC
   - name: 🇭🇰 香港节点 Select
@@ -186,7 +179,6 @@ proxy-groups:
     use:
       - TAG
       - Mesl
-      - Nexitally
       - Facmata
       - ROC
   - name: 🇹🇼 台湾节点 Select
@@ -200,7 +192,6 @@ proxy-groups:
     use:
       - TAG
       - Mesl
-      - Nexitally
       - Facmata
       - ROC
   - name: 🇸🇬 新加坡节点 Select
@@ -214,7 +205,6 @@ proxy-groups:
     use:
       - TAG
       - Mesl
-      - Nexitally
       - Facmata
       - ROC
   - name: 🇯🇵 日本节点 Select
@@ -228,7 +218,6 @@ proxy-groups:
     use:
       - TAG
       - Mesl
-      - Nexitally
       - Facmata
       - ROC
   - name: 🇺🇸 美国节点 Select
@@ -242,7 +231,6 @@ proxy-groups:
     use:
       - TAG
       - Mesl
-      - Nexitally
       - Facmata
       - ROC
   - name: 🇰🇷 韩国节点 Select
@@ -256,7 +244,6 @@ proxy-groups:
     use:
       - TAG
       - Mesl
-      - Nexitally
       - Facmata
       - ROC
   - name: 🇬🇧 英国节点 Select
@@ -270,7 +257,6 @@ proxy-groups:
     use:
       - TAG
       - Mesl
-      - Nexitally
       - Facmata
       - ROC
   - name: 🇩🇪 德国节点 Select
@@ -284,7 +270,6 @@ proxy-groups:
     use:
       - TAG
       - Mesl
-      - Nexitally
       - Facmata
       - ROC
   - name: 🇫🇷 法国节点 Select
@@ -298,7 +283,6 @@ proxy-groups:
     use:
       - TAG
       - Mesl
-      - Nexitally
       - Facmata
       - ROC
   - name: 🇦🇺 澳大利亚节点 Select
@@ -312,7 +296,6 @@ proxy-groups:
     use:
       - TAG
       - Mesl
-      - Nexitally
       - Facmata
       - ROC
   - name: ♻️ 手动切换
@@ -344,7 +327,6 @@ proxy-groups:
     use:
       - TAG
       - Mesl
-      - Nexitally
       - Facmata
       - ROC
   - name: 🔎 Google
@@ -376,7 +358,6 @@ proxy-groups:
     use:
       - TAG
       - Mesl
-      - Nexitally
       - Facmata
       - ROC
   - name: 🔎 Bing
@@ -408,7 +389,6 @@ proxy-groups:
     use:
       - TAG
       - Mesl
-      - Nexitally
       - Facmata
       - ROC
   - name: 🔎 Yahoo
@@ -440,7 +420,6 @@ proxy-groups:
     use:
       - TAG
       - Mesl
-      - Nexitally
       - Facmata
       - ROC
   - name: 🧭 维基百科
@@ -472,7 +451,6 @@ proxy-groups:
     use:
       - TAG
       - Mesl
-      - Nexitally
       - Facmata
       - ROC
   - name: ⏰ 时间校准
@@ -504,7 +482,6 @@ proxy-groups:
     use:
       - TAG
       - Mesl
-      - Nexitally
       - Facmata
       - ROC
   - name: 🗺 Speedtest
@@ -536,7 +513,6 @@ proxy-groups:
     use:
       - TAG
       - Mesl
-      - Nexitally
       - Facmata
       - ROC
   - name: 🐾 Github
@@ -568,7 +544,6 @@ proxy-groups:
     use:
       - TAG
       - Mesl
-      - Nexitally
       - Facmata
       - ROC
   - name: 🧲 OpenAI
@@ -600,7 +575,6 @@ proxy-groups:
     use:
       - TAG
       - Mesl
-      - Nexitally
       - Facmata
       - ROC
   - name: ♾️ Meta
@@ -632,7 +606,6 @@ proxy-groups:
     use:
       - TAG
       - Mesl
-      - Nexitally
       - Facmata
       - ROC
   - name: 📲 微信WeChat
@@ -664,7 +637,6 @@ proxy-groups:
     use:
       - TAG
       - Mesl
-      - Nexitally
       - Facmata
       - ROC
   - name: 📲 聊天软件
@@ -696,7 +668,6 @@ proxy-groups:
     use:
       - TAG
       - Mesl
-      - Nexitally
       - Facmata
       - ROC
   - name: 🎙 Discord
@@ -728,7 +699,6 @@ proxy-groups:
     use:
       - TAG
       - Mesl
-      - Nexitally
       - Facmata
       - ROC
   - name: 🎶 TikTok
@@ -758,7 +728,6 @@ proxy-groups:
     use:
       - TAG
       - Mesl
-      - Nexitally
       - Facmata
       - ROC
   - name: 🎵 AppleMusic
@@ -790,7 +759,6 @@ proxy-groups:
     use:
       - TAG
       - Mesl
-      - Nexitally
       - Facmata
       - ROC
   - name: 🎵 Spotify
@@ -822,7 +790,6 @@ proxy-groups:
     use:
       - TAG
       - Mesl
-      - Nexitally
       - Facmata
       - ROC
   - name: 🎵 Qobuz
@@ -846,7 +813,6 @@ proxy-groups:
     use:
       - TAG
       - Mesl
-      - Nexitally
       - Facmata
       - ROC
   - name: 🎵 TIDAL
@@ -878,7 +844,6 @@ proxy-groups:
     use:
       - TAG
       - Mesl
-      - Nexitally
       - Facmata
       - ROC
   - name: 🎬 YouTube
@@ -910,7 +875,6 @@ proxy-groups:
     use:
       - TAG
       - Mesl
-      - Nexitally
       - Facmata
       - ROC
   - name: 🎬 Netflix
@@ -942,7 +906,6 @@ proxy-groups:
     use:
       - TAG
       - Mesl
-      - Nexitally
       - Facmata
       - ROC
   - name: 🎬 Max
@@ -974,7 +937,6 @@ proxy-groups:
     use:
       - TAG
       - Mesl
-      - Nexitally
       - Facmata
       - ROC
   - name: 🎬 DisneyPlus
@@ -1006,7 +968,6 @@ proxy-groups:
     use:
       - TAG
       - Mesl
-      - Nexitally
       - Facmata
       - ROC
   - name: 🎬 AppleTV+
@@ -1038,7 +999,6 @@ proxy-groups:
     use:
       - TAG
       - Mesl
-      - Nexitally
       - Facmata
       - ROC
   - name: 🎬 NowTV
@@ -1054,7 +1014,6 @@ proxy-groups:
     use:
       - TAG
       - Mesl
-      - Nexitally
       - Facmata
       - ROC
   - name: 🎬 myTVSUPER
@@ -1068,7 +1027,6 @@ proxy-groups:
     use:
       - TAG
       - Mesl
-      - Nexitally
       - Facmata
       - ROC
   - name: 🎬 viuTV
@@ -1082,7 +1040,6 @@ proxy-groups:
     use:
       - TAG
       - Mesl
-      - Nexitally
       - Facmata
       - ROC
   - name: 🎬 巴哈姆特
@@ -1096,7 +1053,6 @@ proxy-groups:
     use:
       - TAG
       - Mesl
-      - Nexitally
       - Facmata
       - ROC
   - name: 🎬 KKTV
@@ -1110,7 +1066,6 @@ proxy-groups:
     use:
       - TAG
       - Mesl
-      - Nexitally
       - Facmata
       - ROC
   - name: 🎬 韩国媒体
@@ -1124,7 +1079,6 @@ proxy-groups:
     use:
       - TAG
       - Mesl
-      - Nexitally
       - Facmata
       - ROC
   - name: 🎬 日本媒体
@@ -1138,7 +1092,6 @@ proxy-groups:
     use:
       - TAG
       - Mesl
-      - Nexitally
       - Facmata
       - ROC
   - name: 🎬 Espn
@@ -1152,7 +1105,6 @@ proxy-groups:
     use:
       - TAG
       - Mesl
-      - Nexitally
       - Facmata
       - ROC
   - name: 🎬 Fox
@@ -1166,7 +1118,6 @@ proxy-groups:
     use:
       - TAG
       - Mesl
-      - Nexitally
       - Facmata
       - ROC
   - name: 🎬 ParamountPlus
@@ -1188,7 +1139,6 @@ proxy-groups:
     use:
       - TAG
       - Mesl
-      - Nexitally
       - Facmata
       - ROC
   - name: 🎬 FuboTV
@@ -1202,7 +1152,6 @@ proxy-groups:
     use:
       - TAG
       - Mesl
-      - Nexitally
       - Facmata
       - ROC
   - name: 🎬 Peacock
@@ -1224,7 +1173,6 @@ proxy-groups:
     use:
       - TAG
       - Mesl
-      - Nexitally
       - Facmata
       - ROC
   - name: 🎬 DiscoveryPlus
@@ -1240,7 +1188,6 @@ proxy-groups:
     use:
       - TAG
       - Mesl
-      - Nexitally
       - Facmata
       - ROC
   - name: 🎬 PrimeVideo
@@ -1272,7 +1219,6 @@ proxy-groups:
     use:
       - TAG
       - Mesl
-      - Nexitally
       - Facmata
       - ROC
   - name: 🎬 Hulu
@@ -1288,7 +1234,6 @@ proxy-groups:
     use:
       - TAG
       - Mesl
-      - Nexitally
       - Facmata
       - ROC
   - name: 🎬 EMBY
@@ -1320,7 +1265,6 @@ proxy-groups:
     use:
       - TAG
       - Mesl
-      - Nexitally
       - Facmata
       - ROC
   - name: 🎬 Dazn
@@ -1340,7 +1284,6 @@ proxy-groups:
     use:
       - TAG
       - Mesl
-      - Nexitally
       - Facmata
       - ROC
   - name: 🎬 爱奇艺
@@ -1356,7 +1299,6 @@ proxy-groups:
     use:
       - TAG
       - Mesl
-      - Nexitally
       - Facmata
       - ROC
   - name: 🎬 B站港澳台
@@ -1372,7 +1314,6 @@ proxy-groups:
     use:
       - TAG
       - Mesl
-      - Nexitally
       - Facmata
       - ROC
   - name: 🎬 B站东南亚
@@ -1386,7 +1327,6 @@ proxy-groups:
     use:
       - TAG
       - Mesl
-      - Nexitally
       - Facmata
       - ROC
   - name: 🌏 国外流媒体
@@ -1418,7 +1358,6 @@ proxy-groups:
     use:
       - TAG
       - Mesl
-      - Nexitally
       - Facmata
       - ROC
   - name: 🌏 国内流媒体
@@ -1450,7 +1389,6 @@ proxy-groups:
     use:
       - TAG
       - Mesl
-      - Nexitally
       - Facmata
       - ROC
   - name: ☁️ iCloud
@@ -1482,7 +1420,6 @@ proxy-groups:
     use:
       - TAG
       - Mesl
-      - Nexitally
       - Facmata
       - ROC
   - name: 🎥 iTunes
@@ -1514,7 +1451,6 @@ proxy-groups:
     use:
       - TAG
       - Mesl
-      - Nexitally
       - Facmata
       - ROC
   - name: 🔖 OneDrive
@@ -1546,7 +1482,6 @@ proxy-groups:
     use:
       - TAG
       - Mesl
-      - Nexitally
       - Facmata
       - ROC
   - name: 🧩 微软服务
@@ -1578,7 +1513,6 @@ proxy-groups:
     use:
       - TAG
       - Mesl
-      - Nexitally
       - Facmata
       - ROC
   - name: 🍎 苹果服务
@@ -1610,7 +1544,6 @@ proxy-groups:
     use:
       - TAG
       - Mesl
-      - Nexitally
       - Facmata
       - ROC
   - name: 🎮 游戏平台
@@ -1642,7 +1575,6 @@ proxy-groups:
     use:
       - TAG
       - Mesl
-      - Nexitally
       - Facmata
       - ROC
   - name: 🎮 游戏下载
@@ -1674,7 +1606,6 @@ proxy-groups:
     use:
       - TAG
       - Mesl
-      - Nexitally
       - Facmata
       - ROC
   - name: 📪 邮件服务
@@ -1706,7 +1637,6 @@ proxy-groups:
     use:
       - TAG
       - Mesl
-      - Nexitally
       - Facmata
       - ROC
   - name: 🌏 国外网站
@@ -1738,7 +1668,6 @@ proxy-groups:
     use:
       - TAG
       - Mesl
-      - Nexitally
       - Facmata
       - ROC
   - name: 🌏 国内网站
@@ -1770,7 +1699,6 @@ proxy-groups:
     use:
       - TAG
       - Mesl
-      - Nexitally
       - Facmata
       - ROC
   - name: 🧬 DNS解析
@@ -1802,7 +1730,6 @@ proxy-groups:
     use:
       - TAG
       - Mesl
-      - Nexitally
       - Facmata
       - ROC
   - name: 🐟 漏网之鱼
@@ -1834,6 +1761,5 @@ proxy-groups:
     use:
       - TAG
       - Mesl
-      - Nexitally
       - Facmata
       - ROC
